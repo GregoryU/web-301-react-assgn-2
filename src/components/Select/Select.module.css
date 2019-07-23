@@ -1,0 +1,10 @@
+.divselectstyle {
+    text-align: center;
+    margin: 33px;
+    display: block;
+}
+.selectstyle {
+    border-radius: 3px;
+    padding: 3px;
+    width: 181px;
+}

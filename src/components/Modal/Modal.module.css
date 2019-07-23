@@ -1,0 +1,15 @@
+  .modalcontainer {
+    z-index: 100;  
+    margin: auto;
+    /*padding-top: 0px;*/
+    position: relative;
+    width: 460px;
+    border: 5px solid brown;
+    background-color: darkkhaki; 
+  }
+  
+  .modalcontainer .modalarea {
+    color: orange;
+    background-color: teal
+  }
+  

@@ -1,0 +1,18 @@
+body {
+    /* custom fonts are in quotes, system fonts are not in quotes
+    order is left to right*/
+    margin: 0;
+    font-family: "Roboto", "Droid Sans", "Helvetica Neue", Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 15px;
+}
+
+.App {
+    text-align: center;
+}
+
+.modelitem {
+    display:block;
+    margin-bottom: 7px;
+}

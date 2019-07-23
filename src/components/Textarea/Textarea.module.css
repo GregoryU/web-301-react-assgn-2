@@ -1,0 +1,11 @@
+.divtextareastyle {
+    text-align: center;
+    margin: 33px;
+    display: block;
+}
+
+.textareastyle {
+    border-radius: 3px;
+    padding: 3px;
+    width: 181px;
+}
